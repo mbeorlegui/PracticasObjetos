@@ -31,4 +31,4 @@ Todos los parciales fueron resueltos en [Wollok](https://www.wollok.org/).
 [1]: https://github.com/mbeorlegui/PracticasObjetos/tree/master/ElAsadito
 [2]: https://github.com/mbeorlegui/PracticasObjetos/tree/master/EscuelaDeAtenas
 [3]: https://github.com/mbeorlegui/PracticasObjetos/tree/master/Gameflix
-[4]: https://github.com/mbeorlegui/PracticasObjetos/tree/master/Jalogüin
+[4]: https://github.com/mbeorlegui/PracticasObjetos/tree/master/Jaloguin
